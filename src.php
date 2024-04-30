@@ -1,5 +1,6 @@
-/*
-    protects multimedia assets of WordPress website */
+ /*
+    This script protects multimedia assets of WordPress website */
+	Written by: Erick Villeta of I Build Awesome Website  */ 
  */
 <script type="text/javascript">
 
